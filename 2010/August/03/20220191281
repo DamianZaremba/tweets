@@ -1,0 +1,7 @@
+ID: 20220191281
+User ID: 24356039
+Time: 1280840868
+Source: Echofon
+Other: {"in_reply_to_status_id_str":"20218234370","retweeted":false,"in_reply_to_user_id_str":"113682356","retweet_count":0,"in_reply_to_user_id":"113682356","truncated":false,"id_str":"20220191281","favorited":false,"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id":"20218234370","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier :o I have munin + nagios, can just add the IPs/services to my mon db and they will alert to me/you ;)

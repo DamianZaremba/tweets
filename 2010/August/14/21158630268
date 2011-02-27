@@ -1,0 +1,7 @@
+ID: 21158630268
+User ID: 24356039
+Time: 1281800477
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"21155858908","retweeted":false,"in_reply_to_user_id_str":"178349903","retweet_count":0,"in_reply_to_user_id":"178349903","truncated":false,"id_str":"21158630268","favorited":false,"in_reply_to_screen_name":"MatthewIfe","in_reply_to_status_id":"21155858908","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@MatthewIfe Whats an alternative to pam-mysql for a two node setup, is rsyncing the passwd/shadow files good enough to avoid duplicate id's?

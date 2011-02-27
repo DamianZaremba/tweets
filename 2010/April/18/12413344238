@@ -1,0 +1,7 @@
+ID: 12413344238
+User ID: 24356039
+Time: 1271618577
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"12413344238","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+I officially declare the server base to be stable! Now to write the db abstraction layer and permissions class C=

@@ -1,0 +1,7 @@
+ID: 13865685962
+User ID: 24356039
+Time: 1273689705
+Source: Gwibber
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"13865685962","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Bridged networking in KVM working! Fuck yeah =D Now for some serious testing

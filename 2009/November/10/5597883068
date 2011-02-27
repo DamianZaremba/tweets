@@ -1,0 +1,7 @@
+ID: 5597883068
+User ID: 24356039
+Time: 1257883686
+Source: Digsby
+Other: {"in_reply_to_status_id_str":"5597738304","retweeted":false,"in_reply_to_user_id_str":"14746604","retweet_count":0,"in_reply_to_user_id":"14746604","truncated":false,"id_str":"5597883068","favorited":false,"in_reply_to_screen_name":"dvyjones","in_reply_to_status_id":"5597738304","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@dvyjones b is harder and requires more thought about protocol handling and cluster authentication, c is simple. I fail too much for both.

@@ -1,0 +1,7 @@
+ID: 32768107235770368
+User ID: 24356039
+Time: 1296647500
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"32768107235770368","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @digininja: Just seen a question from a sysadmin saying that nslookup isn't installed on a box so how does wget manage to do DNS lookups?

@@ -1,0 +1,7 @@
+ID: 20018648872
+User ID: 24356039
+Time: 1280611160
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"20018507930","retweeted":false,"in_reply_to_user_id_str":"15722976","retweet_count":0,"in_reply_to_user_id":"15722976","truncated":false,"id_str":"20018648872","favorited":false,"in_reply_to_screen_name":"Saiweb","in_reply_to_status_id":"20018507930","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Saiweb drdb is nice but I'm not sure it would scale amazingly, would probably look at gluster if going file based tbh

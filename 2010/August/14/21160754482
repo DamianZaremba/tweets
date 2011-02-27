@@ -1,0 +1,7 @@
+ID: 21160754482
+User ID: 24356039
+Time: 1281802243
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"21159079560","retweeted":false,"in_reply_to_user_id_str":"178349903","retweet_count":0,"in_reply_to_user_id":"178349903","truncated":false,"id_str":"21160754482","favorited":false,"in_reply_to_screen_name":"MatthewIfe","in_reply_to_status_id":"21159079560","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@MatthewIfe I was considering that but isn't it master/slave replication only? Could be wrong as I've hardly used NIS

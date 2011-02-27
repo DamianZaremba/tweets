@@ -1,0 +1,7 @@
+ID: 24552153435
+User ID: 24356039
+Time: 1284538524
+Source: Echofon
+Other: {"in_reply_to_status_id_str":"24551586645","retweeted":false,"in_reply_to_user_id_str":"20437428","retweet_count":0,"in_reply_to_user_id":"20437428","truncated":false,"id_str":"24552153435","favorited":false,"in_reply_to_screen_name":"bilco105","in_reply_to_status_id":"24551586645","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@bilco105 Ooh that would explain it, I'll try switching it to scsi emulated over virtio and see if that works C=

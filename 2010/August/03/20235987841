@@ -1,0 +1,7 @@
+ID: 20235987841
+User ID: 24356039
+Time: 1280854941
+Source: Echofon
+Other: {"in_reply_to_status_id_str":"20230597931","retweeted":false,"in_reply_to_user_id_str":"30835369","retweet_count":0,"in_reply_to_user_id":"30835369","truncated":false,"id_str":"20235987841","favorited":false,"in_reply_to_screen_name":"icinga","in_reply_to_status_id":"20230597931","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@icinga Looks nice, did you change the config file format from nagios? Might try it out if not.

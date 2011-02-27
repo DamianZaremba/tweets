@@ -1,0 +1,7 @@
+ID: 6873481215
+User ID: 24356039
+Time: 1261348890
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"6873481215","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @surfichris: Just finished putting together a PHP port of Resque workers and enqueueing. Will be on GitHub later for those interested.

@@ -1,0 +1,7 @@
+ID: 21323679045
+User ID: 24356039
+Time: 1281972764
+Source: Echofon
+Other: {"in_reply_to_status_id_str":"21321661974","retweeted":false,"in_reply_to_user_id_str":"178349903","retweet_count":1,"in_reply_to_user_id":"178349903","truncated":false,"id_str":"21323679045","favorited":false,"in_reply_to_screen_name":"MatthewIfe","in_reply_to_status_id":"21321661974","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@MatthewIfe nmap/ping from the tunnel providers server (he.net) reports host down. No other server to wireshark from to see if pkts get out.

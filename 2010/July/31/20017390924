@@ -1,0 +1,7 @@
+ID: 20017390924
+User ID: 24356039
+Time: 1280609523
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"20017178178","retweeted":false,"in_reply_to_user_id_str":"15722976","retweet_count":0,"in_reply_to_user_id":"15722976","truncated":false,"id_str":"20017390924","favorited":false,"in_reply_to_screen_name":"Saiweb","in_reply_to_status_id":"20017178178","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Saiweb Designing a new system so no benchmark but I'm thinking mysql offers indexing and replication easily compared to file based storage

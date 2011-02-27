@@ -1,0 +1,7 @@
+ID: 6603878827
+User ID: 24356039
+Time: 1260638233
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"6603878827","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+So I just spend an hour debugging a firewall issue which turned out to be the webserver ports not being direct... stupid noob mistake

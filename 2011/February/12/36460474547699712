@@ -1,0 +1,7 @@
+ID: 36460474547699712
+User ID: 24356039
+Time: 1297527829
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"36460474547699712","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Hmm should I setup @redmine or @chiliproject they both break over the same page and @chiliproject stable is due in 2weeks so it might fix.

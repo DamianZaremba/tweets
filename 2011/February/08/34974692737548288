@@ -1,0 +1,7 @@
+ID: 34974692737548288
+User ID: 24356039
+Time: 1297173591
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"34973432038825985","retweeted":false,"in_reply_to_user_id_str":"19543","retweet_count":0,"in_reply_to_user_id":"19543","truncated":false,"id_str":"34974692737548288","favorited":false,"in_reply_to_screen_name":"rjamestaylor","in_reply_to_status_id":"34973432038825985","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@rjamestaylor Seems to have fixed its self jobs.rs was throwing back http error codes and alert() error messages for a bit :( #willjustemail

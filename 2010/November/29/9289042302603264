@@ -1,0 +1,7 @@
+ID: 9289042302603264
+User ID: 24356039
+Time: 1291049654
+Source: web
+Other: {"in_reply_to_status_id_str":"9188703914172417","retweeted":false,"in_reply_to_user_id_str":"2316871","retweet_count":0,"in_reply_to_user_id":"2316871","truncated":false,"id_str":"9289042302603264","favorited":false,"in_reply_to_screen_name":"BarryCarlyon","in_reply_to_status_id":"9188703914172417","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@BarryCarlyon @FastLizard4 Or just use ldapmodify, everything that you can't edit directly should be in the web interface/api stuff...

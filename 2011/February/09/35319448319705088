@@ -1,0 +1,7 @@
+ID: 35319448319705088
+User ID: 24356039
+Time: 1297255787
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"35318828036653056","retweeted":false,"in_reply_to_user_id_str":"113682356","retweet_count":0,"in_reply_to_user_id":"113682356","truncated":false,"id_str":"35319448319705088","favorited":false,"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id":"35318828036653056","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Your line doesn't make sense, if file doesn't exist then remove it? Just drop that rm as it should never be removed.

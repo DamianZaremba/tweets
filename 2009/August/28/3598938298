@@ -1,0 +1,7 @@
+ID: 3598938298
+User ID: 24356039
+Time: 1251447708
+Source: twitux
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"3598938298","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Ok now JS is annoying me... since when is submit not a function when the doc object is a form.....

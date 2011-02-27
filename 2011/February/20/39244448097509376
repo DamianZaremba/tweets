@@ -1,0 +1,7 @@
+ID: 39244448097509376
+User ID: 24356039
+Time: 1298191580
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"39237580591464448","retweeted":false,"in_reply_to_user_id_str":"2316871","retweet_count":0,"in_reply_to_user_id":"2316871","truncated":false,"id_str":"39244448097509376","favorited":false,"in_reply_to_screen_name":"BarryCarlyon","in_reply_to_status_id":"39237580591464448","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@BarryCarlyon Interesting, did you check smart to see if it has reassigned any blocks on the disk? Usually spams dmesg though =/

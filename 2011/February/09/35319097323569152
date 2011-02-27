@@ -1,0 +1,7 @@
+ID: 35319097323569152
+User ID: 24356039
+Time: 1297255703
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"35318828036653056","retweeted":false,"in_reply_to_user_id_str":"113682356","retweet_count":0,"in_reply_to_user_id":"113682356","truncated":false,"id_str":"35319097323569152","favorited":false,"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id":"35318828036653056","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier It probably shouldn't remove it; the actual file is generated from the template which configure builds.

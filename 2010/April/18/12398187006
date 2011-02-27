@@ -1,0 +1,7 @@
+ID: 12398187006
+User ID: 24356039
+Time: 1271598710
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"12393384374","retweeted":false,"in_reply_to_user_id_str":"41919986","retweet_count":0,"in_reply_to_user_id":"41919986","truncated":false,"id_str":"12398187006","favorited":false,"in_reply_to_screen_name":"scottdollins","in_reply_to_status_id":"12393384374","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@scottdollins wget/curl? They can handle cookies and can fake the useragent if needed

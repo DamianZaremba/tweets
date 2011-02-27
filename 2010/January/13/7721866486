@@ -1,0 +1,7 @@
+ID: 7721866486
+User ID: 24356039
+Time: 1263416641
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"7721441398","retweeted":false,"in_reply_to_user_id_str":"11848692","retweet_count":0,"in_reply_to_user_id":"11848692","truncated":false,"id_str":"7721866486","favorited":false,"in_reply_to_screen_name":"compwhizii","in_reply_to_status_id":"7721441398","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@compwhizii Why not use svnserv insted of mod_dav_svn? Then you can ditch apache all together.

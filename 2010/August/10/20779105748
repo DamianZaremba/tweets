@@ -1,0 +1,7 @@
+ID: 20779105748
+User ID: 24356039
+Time: 1281429014
+Source: Echofon
+Other: {"in_reply_to_status_id_str":"20778969886","retweeted":false,"in_reply_to_user_id_str":"15722976","retweet_count":0,"in_reply_to_user_id":"15722976","truncated":false,"id_str":"20779105748","favorited":false,"in_reply_to_screen_name":"Saiweb","in_reply_to_status_id":"20778969886","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Saiweb Possibly, might try using inotify then have a backup rync runs every few mins if some sort tmp file hasn't been updated in x min

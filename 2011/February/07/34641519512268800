@@ -1,0 +1,7 @@
+ID: 34641519512268800
+User ID: 24356039
+Time: 1297094156
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"34641519512268800","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Anyone have a suggestions for an automated deployment system? Really need rewrite or replace my current git/svn -> web deploy scripty stuff.

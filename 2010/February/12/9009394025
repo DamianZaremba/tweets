@@ -1,0 +1,7 @@
+ID: 9009394025
+User ID: 24356039
+Time: 1265983166
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"9009394025","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Anyone use capify? I'm trying to work out how to get it to write the svn revision number to a file after delpoy =/

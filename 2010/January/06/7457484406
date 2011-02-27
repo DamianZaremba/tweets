@@ -1,0 +1,7 @@
+ID: 7457484406
+User ID: 24356039
+Time: 1262819495
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"7457484406","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Interesting didn't know that '' was a char and "" an array of chars (a pointer) at least that wasted hour made me learn something new :-)

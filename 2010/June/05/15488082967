@@ -1,0 +1,7 @@
+ID: 15488082967
+User ID: 24356039
+Time: 1275745871
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"15487593286","retweeted":false,"in_reply_to_user_id_str":"113682356","retweet_count":0,"in_reply_to_user_id":"113682356","truncated":false,"id_str":"15488082967","favorited":false,"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id":"15487593286","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier sysctl, I can't do much ATM on my phone :( be around about 4 look in proc for ipv4_forward for now and make sure it's set to 1

@@ -1,0 +1,7 @@
+ID: 12408295049
+User ID: 24356039
+Time: 1271611662
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"12398252844","retweeted":false,"in_reply_to_user_id_str":"41919986","retweet_count":0,"in_reply_to_user_id":"41919986","truncated":false,"id_str":"12408295049","favorited":false,"in_reply_to_screen_name":"scottdollins","in_reply_to_status_id":"12398252844","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@scottdollins try a really slow wget some sites detect downloader scripts by the number of page requests/sec

@@ -1,0 +1,7 @@
+ID: 5682154364
+User ID: 24356039
+Time: 1258126281
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"5681885318","retweeted":false,"in_reply_to_user_id_str":"801234","retweet_count":0,"in_reply_to_user_id":"801234","truncated":false,"id_str":"5682154364","favorited":false,"in_reply_to_screen_name":"geoffgarside","in_reply_to_status_id":"5681885318","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@geoffgarside Local nodes don't really need to read the data only the controllers do so having a local slave wouldn't really be needed C=

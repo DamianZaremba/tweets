@@ -1,0 +1,7 @@
+ID: 5401670399
+User ID: 24356039
+Time: 1257282485
+Source: Digsby
+Other: {"in_reply_to_status_id_str":"5401499337","retweeted":false,"in_reply_to_user_id_str":"15471924","retweet_count":0,"in_reply_to_user_id":"15471924","truncated":false,"id_str":"5401670399","favorited":false,"in_reply_to_screen_name":"aetaric","in_reply_to_status_id":"5401499337","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@aetaric That would be helpful.... I can't get it to authenticate me, even when I test it manualy I'm sure its a screwed auth token but idk

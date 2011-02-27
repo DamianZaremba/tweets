@@ -1,0 +1,7 @@
+ID: 7455205261
+User ID: 24356039
+Time: 1262815093
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"7455205261","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Urgh so C's argv starts at 1 not 0... what a waste of 20mins

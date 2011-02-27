@@ -1,0 +1,7 @@
+ID: 40108497920073728
+User ID: 24356039
+Time: 1298397585
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"40107335259131904","retweeted":false,"in_reply_to_user_id_str":"713263","retweet_count":0,"in_reply_to_user_id":"713263","truncated":false,"id_str":"40108497920073728","favorited":false,"in_reply_to_screen_name":"defunkt","in_reply_to_status_id":"40107335259131904","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@defunkt Any plan to make dotjs work on linux? I guess I could just install launchd but it's not very unix like D:

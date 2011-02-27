@@ -1,0 +1,7 @@
+ID: 21320542194
+User ID: 24356039
+Time: 1281970129
+Source: Echofon
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"21320542194","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Suggestions as to why my IPv6 to 4 tunnel won't ping? Can ping the ip locally, tcpdump show echo requests but no reply, traceroute dies at 0

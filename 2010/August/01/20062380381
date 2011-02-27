@@ -1,0 +1,7 @@
+ID: 20062380381
+User ID: 24356039
+Time: 1280669676
+Source: Echofon
+Other: {"in_reply_to_status_id_str":"20061815606","retweeted":false,"in_reply_to_user_id_str":"20437428","retweet_count":0,"in_reply_to_user_id":"20437428","truncated":false,"id_str":"20062380381","favorited":false,"in_reply_to_screen_name":"bilco105","in_reply_to_status_id":"20061815606","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@bilco105 @Saiweb or could just run everything out of memcached! Will have to play with mySQL cluster soemtime, looks interesting :)

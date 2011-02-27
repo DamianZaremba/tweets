@@ -1,0 +1,7 @@
+ID: 6611697900
+User ID: 24356039
+Time: 1260658290
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"6611225292","retweeted":false,"in_reply_to_user_id_str":"801234","retweet_count":0,"in_reply_to_user_id":"801234","truncated":false,"id_str":"6611697900","favorited":false,"in_reply_to_screen_name":"geoffgarside","in_reply_to_status_id":"6611225292","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@geoffgarside Hmm interesting As far as I can tell this should be working fine. I think the issue is with the bytes in the packet content =/
