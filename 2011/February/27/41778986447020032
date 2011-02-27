@@ -1,0 +1,7 @@
+ID: 41778986447020032
+User ID: 24356039
+Time: 1298795861
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"id_str":"41778986447020032","in_reply_to_status_id":null,"truncated":false,"favorited":false,"in_reply_to_screen_name":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Well updating @chiliproject broke life as far as RoR is concerned. Still gem version hell, without it the language might be nice to use.
