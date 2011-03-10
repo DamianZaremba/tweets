@@ -1,0 +1,7 @@
+ID: 45917335214759936
+User ID: 24356039
+Time: 1299782520
+Source: TweetDeck
+Other: {"id_str":"45917335214759936","truncated":false,"favorited":false,"in_reply_to_screen_name":"firefox","in_reply_to_user_id":"2142731","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":"2142731","retweet_count":0,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@firefox 4 is slightly improved but the startup, shutdown, rendering and general response time is still very poor compared to chrome.
