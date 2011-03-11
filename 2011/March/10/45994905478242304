@@ -1,0 +1,7 @@
+ID: 45994905478242304
+User ID: 24356039
+Time: 1299801014
+Source: TweetDeck
+Other: {"truncated":false,"favorited":false,"in_reply_to_screen_name":null,"in_reply_to_user_id":null,"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_status_id":null,"in_reply_to_user_id_str":null,"retweet_count":0,"id_str":"45994905478242304","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Even though I'm not a Ruby fan I have to say Capistrano is pretty damn awesome for deploying and rolling back code with little effort.
