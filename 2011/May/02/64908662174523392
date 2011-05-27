@@ -1,0 +1,7 @@
+ID: 64908662174523392
+User ID: 24356039
+Time: 1304310405
+Source: TweetDeck
+Other: {"truncated":false,"favorited":false,"id_str":"64908662174523392","retweet_count":0,"in_reply_to_screen_name":null,"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_status_id":null,"in_reply_to_user_id_str":null,"in_reply_to_user_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+if anyof (address :contains ["From"]  "@match.com"){ fileinto "Junk"; stop; } and my Inbox is clean again.

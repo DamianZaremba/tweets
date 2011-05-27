@@ -1,0 +1,7 @@
+ID: 68922378352197632
+User ID: 24356039
+Time: 1305267350
+Source: TweetDeck
+Other: {"in_reply_to_status_id":null,"favorited":false,"retweet_count":0,"in_reply_to_screen_name":null,"in_reply_to_status_id_str":null,"id_str":"68922378352197632","retweeted":false,"in_reply_to_user_id_str":null,"in_reply_to_user_id":null,"truncated":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+$last_tweet =~ s/their/there/; # @LukeCarrier - what I get for changing what I'm going to say when ranting at stupid changes.

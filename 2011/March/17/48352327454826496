@@ -1,0 +1,7 @@
+ID: 48352327454826496
+User ID: 24356039
+Time: 1300363067
+Source: TweetDeck
+Other: {"in_reply_to_screen_name":null,"in_reply_to_user_id":null,"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"id_str":"48352327454826496","in_reply_to_status_id":null,"truncated":false,"favorited":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+#Git just got lots more awesome; Protip if you go deleting the branch with all your code in then go check git reflog and merge it back!

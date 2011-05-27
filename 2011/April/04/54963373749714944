@@ -1,0 +1,7 @@
+ID: 54963373749714944
+User ID: 24356039
+Time: 1301939264
+Source: TweetDeck
+Other: {"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id_str":"54917524319502336","retweeted":false,"in_reply_to_user_id_str":"113682356","retweet_count":0,"in_reply_to_user_id":"113682356","in_reply_to_status_id":"54917524319502336","truncated":false,"id_str":"54963373749714944","favorited":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier The only thing that is making me think I should use python instead is php doesn't support threading....

@@ -1,0 +1,7 @@
+ID: 54963247954132992
+User ID: 24356039
+Time: 1301939234
+Source: TweetDeck
+Other: {"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id_str":"54917524319502336","retweeted":false,"in_reply_to_user_id_str":"113682356","retweet_count":0,"in_reply_to_user_id":"113682356","in_reply_to_status_id":"54917524319502336","truncated":false,"id_str":"54963247954132992","favorited":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Ironically I'm thinking of re-writing the perl script into php... just need to find a nice AXFR class for it first.

@@ -1,0 +1,7 @@
+ID: 60049668146606080
+User ID: 24356039
+Time: 1303151931
+Source: TweetDeck
+Other: {"in_reply_to_screen_name":null,"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_status_id":null,"in_reply_to_user_id_str":null,"in_reply_to_user_id":null,"truncated":false,"id_str":"60049668146606080","favorited":false,"retweet_count":0,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+I wish SSHFP records where used more, it would save having to verify a hosts fingerprint by emailing the person who owns it =/

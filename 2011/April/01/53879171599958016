@@ -1,0 +1,7 @@
+ID: 53879171599958016
+User ID: 24356039
+Time: 1301680770
+Source: TweetDeck
+Other: {"truncated":false,"in_reply_to_user_id":"9695352","favorited":false,"in_reply_to_screen_name":"edavis10","in_reply_to_status_id_str":"53878558162038784","retweeted":false,"in_reply_to_user_id_str":"9695352","id_str":"53879171599958016","retweet_count":0,"in_reply_to_status_id":"53878558162038784","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@edavis10 sleep(86400) && system("sudo ifup eth0") ?

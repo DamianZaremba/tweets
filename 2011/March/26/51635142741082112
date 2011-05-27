@@ -1,0 +1,7 @@
+ID: 51635142741082112
+User ID: 24356039
+Time: 1301145752
+Source: TweetDeck
+Other: {"id_str":"51635142741082112","truncated":false,"favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"retweet_count":0,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+uwsgi is a pretty neat way to get python apps working under nginx. Still not on the same level as mod_wsgi or lighty's FastCGI stuff though.
