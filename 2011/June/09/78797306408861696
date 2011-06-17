@@ -1,0 +1,7 @@
+ID: 78797306408861696
+User ID: 24356039
+Time: 1307621716
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"in_reply_to_user_id_str":null,"retweeted":false,"retweet_count":0,"in_reply_to_user_id":null,"id_str":"78797306408861696","truncated":false,"favorited":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Maybe my brain needs more sleep, I just spent 5min debugging why php wouldn't work. Turns out I'd started to write python half way though.

@@ -1,0 +1,7 @@
+ID: 78800517286985728
+User ID: 24356039
+Time: 1307622482
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"78799151948775424","in_reply_to_screen_name":"Saiweb","in_reply_to_status_id":"78799151948775424","in_reply_to_user_id_str":"15722976","retweeted":false,"retweet_count":0,"in_reply_to_user_id":"15722976","id_str":"78800517286985728","truncated":false,"favorited":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Saiweb Just out of curiosity does sshing to the server then making a tunnel by sshing back to your client work?

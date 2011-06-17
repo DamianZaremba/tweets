@@ -1,0 +1,7 @@
+ID: 78802958153809920
+User ID: 24356039
+Time: 1307623063
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"78802043413860352","in_reply_to_screen_name":"Saiweb","in_reply_to_status_id":"78802043413860352","in_reply_to_user_id_str":"15722976","retweeted":false,"retweet_count":0,"in_reply_to_user_id":"15722976","id_str":"78802958153809920","truncated":false,"favorited":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Saiweb Mhm, I was just wondering if -L B->A worked as I've never had issues with ssl over ssh (I use it for VPNs) but it should be the same
