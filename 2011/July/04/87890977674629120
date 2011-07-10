@@ -1,0 +1,7 @@
+ID: 87890977674629120
+User ID: 24356039
+Time: 1309789816
+Source: TweetDeck
+Other: {"in_reply_to_user_id":null,"retweet_count":0,"id_str":"87890977674629120","favorited":false,"in_reply_to_status_id_str":null,"in_reply_to_screen_name":null,"in_reply_to_user_id_str":null,"truncated":false,"retweeted":false,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Right, that's NIS setup for the dev cluster should make life a whole load easier compared to Hesiod.

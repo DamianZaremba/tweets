@@ -1,0 +1,7 @@
+ID: 83854388627640321
+User ID: 24356039
+Time: 1308827418
+Source: TweetDeck
+Other: {"in_reply_to_user_id":"15722976","retweet_count":0,"id_str":"83854388627640321","favorited":false,"in_reply_to_status_id_str":"83852289776951296","in_reply_to_screen_name":"Saiweb","in_reply_to_user_id_str":"15722976","truncated":false,"retweeted":false,"in_reply_to_status_id":"83852289776951296","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Saiweb Ah... IIRC xclip doesn't support X-Forwarding yet, or at least there was a bug report for it a while back.

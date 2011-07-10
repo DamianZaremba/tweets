@@ -1,0 +1,7 @@
+ID: 84469448647520256
+User ID: 24356039
+Time: 1308974060
+Source: TweetDeck
+Other: {"in_reply_to_user_id":null,"retweet_count":0,"id_str":"84469448647520256","favorited":false,"in_reply_to_status_id_str":null,"in_reply_to_screen_name":null,"in_reply_to_user_id_str":null,"truncated":false,"retweeted":false,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Hmmm. One of the routers just threw a big load of memory fragmentation errors and a segfault at me :( Maybe time to test that ram again....

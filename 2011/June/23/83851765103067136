@@ -1,0 +1,7 @@
+ID: 83851765103067136
+User ID: 24356039
+Time: 1308826793
+Source: TweetDeck
+Other: {"in_reply_to_user_id":"15722976","retweet_count":0,"id_str":"83851765103067136","favorited":false,"in_reply_to_status_id_str":"83850829462896641","in_reply_to_screen_name":"Saiweb","in_reply_to_user_id_str":"15722976","truncated":false,"retweeted":false,"in_reply_to_status_id":"83850829462896641","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Saiweb cat /file | xclip -selection clipboard?

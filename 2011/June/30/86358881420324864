@@ -1,0 +1,7 @@
+ID: 86358881420324864
+User ID: 24356039
+Time: 1309424536
+Source: TweetDeck
+Other: {"in_reply_to_user_id":"258719649","retweet_count":0,"id_str":"86358881420324864","favorited":false,"in_reply_to_status_id_str":"86066728177647616","in_reply_to_screen_name":"TalkTalkCare","in_reply_to_user_id_str":"258719649","truncated":false,"retweeted":false,"in_reply_to_status_id":"86066728177647616","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@TalkTalkCare Fixed after fixing the connection in the cab and re-writing the master socket. Shame it took 2 1/2 days.
