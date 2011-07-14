@@ -1,0 +1,7 @@
+ID: 91512617767665665
+User ID: 24356039
+Time: 1310653282
+Source: TweetDeck
+Other: {"favorited":false,"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"in_reply_to_screen_name":null,"in_reply_to_user_id_str":null,"id_str":"91512617767665665","retweeted":false,"retweet_count":0,"truncated":false,"in_reply_to_user_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Anyone know a tool that I can give it an rpm and it will go find all the dependent rpms and download them for me? Don't even say yum.
