@@ -1,0 +1,7 @@
+ID: 92197829245800448
+User ID: 24356039
+Time: 1310816650
+Source: TweetDeck
+Other: {"in_reply_to_user_id":"149493629","in_reply_to_status_id":"92194846277775360","id_str":"92197829245800448","favorited":false,"in_reply_to_status_id_str":"92194846277775360","in_reply_to_screen_name":"vps247","in_reply_to_user_id_str":"149493629","retweeted":false,"retweet_count":0,"truncated":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@vps247 I should just forward all my nagios alerts to you, it breaks too often for manually asking you to fix it then waiting 2days.
