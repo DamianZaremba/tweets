@@ -1,0 +1,7 @@
+ID: 98478509860716544
+User ID: 24356039
+Time: 1312314081
+Source: TweetDeck
+Other: {"in_reply_to_screen_name":"abperiasamy","in_reply_to_user_id_str":"41545027","retweeted":false,"truncated":false,"in_reply_to_user_id":"41545027","retweet_count":0,"in_reply_to_status_id":"98431877312024576","id_str":"98478509860716544","favorited":false,"in_reply_to_status_id_str":"98431877312024576","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@abperiasamy Possibly using server side AFR and then connecting locally with the client may work better as there will be far less lag.
