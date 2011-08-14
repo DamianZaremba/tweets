@@ -1,0 +1,7 @@
+ID: 102844648426442752
+User ID: 24356039
+Time: 1313355049
+Source: identica
+Other: {"in_reply_to_user_id":"149493629","truncated":false,"in_reply_to_status_id":null,"favorited":false,"in_reply_to_status_id_str":null,"in_reply_to_screen_name":"vps247","in_reply_to_user_id_str":"149493629","id_str":"102844648426442752","retweeted":false,"retweet_count":0,"coordinates":{"type":"Point","coordinates":[-2.23743,53.48095]},"geo":{"type":"Point","coordinates":[53.48095,-2.23743]},"place":{"country_code":"GB","name":"Manchester","bounding_box":{"type":"Polygon","coordinates":[[[-2.319934,53.340121],[-2.147026,53.340121],[-2.147026,53.544603],[-2.319934,53.544603]]]},"attributes":{},"full_name":"Manchester, Manchester","country":"United Kingdom","url":"http:\/\/api.twitter.com\/1\/geo\/id\/6e2453d6a2f968cb.json","id":"6e2453d6a2f968cb","place_type":"city"}}
+-------------------------------------------------------
+@vps247 Reset of long standing tcp connections/random connectivity loss, granted you haven't shut the whole thing down for a few hours.. yet
