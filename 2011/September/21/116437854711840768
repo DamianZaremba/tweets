@@ -1,0 +1,7 @@
+ID: 116437854711840768
+User ID: 24356039
+Time: 1316595922
+Source: TweetDeck
+Other: {"truncated":false,"favorited":false,"in_reply_to_screen_name":null,"retweeted":false,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"id_str":"116437854711840768","retweet_count":0,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Anyone have an opinion on #nose vs #unittest? Apart from nose appears to integrate well with Hudson (JUnit like output) #python

@@ -1,0 +1,7 @@
+ID: 118517881188257792
+User ID: 24356039
+Time: 1317091839
+Source: TweetDeck
+Other: {"retweeted":false,"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"118517881188257792","favorited":false,"in_reply_to_screen_name":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Massive WTF @ out of disk space errors. Turns out a mount bind was pointing to a mount bind that was pointing back to the first mount bind!

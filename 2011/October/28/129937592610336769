@@ -1,0 +1,7 @@
+ID: 129937592610336769
+User ID: 24356039
+Time: 1319814510
+Source: TweetDeck
+Other: {"retweet_count":0,"in_reply_to_screen_name":"LukeCarrier","truncated":false,"retweeted":false,"in_reply_to_status_id_str":"129931207629737986","in_reply_to_user_id_str":"113682356","in_reply_to_user_id":"113682356","id_str":"129937592610336769","in_reply_to_status_id":"129931207629737986","favorited":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier I've got it working just nicely now, sadly cPanel is a whore when it comes to libs and compiling stuff

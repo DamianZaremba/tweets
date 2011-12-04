@@ -1,0 +1,7 @@
+ID: 116481752150704128
+User ID: 24356039
+Time: 1316606388
+Source: TweetDeck
+Other: {"truncated":false,"favorited":false,"in_reply_to_screen_name":"LukeCarrier","retweeted":false,"in_reply_to_status_id_str":"116477690546094081","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","id_str":"116481752150704128","retweet_count":0,"in_reply_to_status_id":"116477690546094081","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier porting it to python would be a breeze - though I'm not sure about createrepo (it is rh based and builds the meta data)

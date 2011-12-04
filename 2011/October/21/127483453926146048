@@ -1,0 +1,7 @@
+ID: 127483453926146048
+User ID: 24356039
+Time: 1319229398
+Source: TweetDeck
+Other: {"retweet_count":0,"in_reply_to_status_id":"127483070352855040","favorited":false,"in_reply_to_screen_name":"LukeCarrier","truncated":false,"retweeted":false,"in_reply_to_status_id_str":"127483070352855040","in_reply_to_user_id_str":"113682356","id_str":"127483453926146048","in_reply_to_user_id":"113682356","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Rubbish! Anyway... how the hell do you tell 5.3 to NOT pass shiz by reference without copying over the var on each loop?

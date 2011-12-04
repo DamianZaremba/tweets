@@ -1,0 +1,8 @@
+ID: 136353081641283584
+User ID: 24356039
+Time: 1321344082
+Source: TweetDeck
+Other: {"rt":{"contributors":null,"place":null,"geo":null,"userid":"191158687","screenname":"CloudFlareSys","coordinates":null,"source":"web","time":1321316119,"tweetid":"136235795060232192","text":"We will be putting new ips into production this week: 108.162.192.0\/18\nand 2606:4700::\/32. Update mod_cloudflare, firewalls as needed.","extra":{"id_str":"136235795060232192","favorited":false,"in_reply_to_user_id":null,"retweet_count":6,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"retweeted":false,"in_reply_to_status_id_str":null,"truncated":false,"in_reply_to_user_id_str":null}},"id_str":"136353081641283584","favorited":false,"in_reply_to_user_id":null,"retweet_count":6,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"retweeted":false,"in_reply_to_status_id_str":null,"truncated":true,"in_reply_to_user_id_str":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @CloudFlareSys: We will be putting new ips into production this week: 108.162.192.0/18
+and 2606:4700::/32. Update mod_cloudflare, fir ...

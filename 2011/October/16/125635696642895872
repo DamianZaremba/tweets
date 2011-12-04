@@ -1,0 +1,7 @@
+ID: 125635696642895872
+User ID: 24356039
+Time: 1318788858
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":"125635218718732289","id_str":"125635696642895872","truncated":false,"in_reply_to_user_id_str":"113682356","favorited":false,"retweet_count":0,"in_reply_to_screen_name":"LukeCarrier","retweeted":false,"in_reply_to_user_id":"113682356","in_reply_to_status_id":"125635218718732289","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Should be fixed, it seems to kinda lagg out sometimes. Maybe because I'm running a full backup atm ;)

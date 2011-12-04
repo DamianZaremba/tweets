@@ -1,0 +1,7 @@
+ID: 116470518932180994
+User ID: 24356039
+Time: 1316603710
+Source: TweetDeck
+Other: {"truncated":false,"favorited":false,"in_reply_to_screen_name":"LukeCarrier","retweeted":false,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","id_str":"116470518932180994","retweet_count":0,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier when the pre-push hooks gets into stable it will be seamless and automatic on push ;) (see readme). Also need to doc/check reqs

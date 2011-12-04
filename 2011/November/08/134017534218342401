@@ -1,0 +1,7 @@
+ID: 134017534218342401
+User ID: 24356039
+Time: 1320787244
+Source: TweetDeck
+Other: {"favorited":false,"retweet_count":0,"in_reply_to_screen_name":"annie_dot_h","retweeted":false,"in_reply_to_status_id":"134004689351086080","in_reply_to_status_id_str":"134004689351086080","id_str":"134017534218342401","truncated":false,"in_reply_to_user_id_str":"301429236","in_reply_to_user_id":"301429236","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@annie_dot_h Probably just run like sudo yum install preupgrade then run sudo preupgrade and it will take you though a little wizard thing

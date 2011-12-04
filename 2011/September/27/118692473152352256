@@ -1,0 +1,7 @@
+ID: 118692473152352256
+User ID: 24356039
+Time: 1317133465
+Source: TweetDeck
+Other: {"retweeted":false,"in_reply_to_status_id_str":"118690388411289600","in_reply_to_status_id":"118690388411289600","in_reply_to_user_id_str":"14453057","retweet_count":0,"in_reply_to_user_id":"14453057","truncated":false,"id_str":"118692473152352256","favorited":false,"in_reply_to_screen_name":"rackerhacker","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@rackerhacker Use it as a primary/secondary IP check on multiple 5min crons along with canhazip.info ;)
