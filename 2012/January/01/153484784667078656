@@ -1,0 +1,7 @@
+ID: 153484784667078656
+User ID: 24356039
+Time: 1325428598
+Source: TweetDeck
+Other: {"in_reply_to_user_id_str":"113682356","id_str":"153484784667078656","in_reply_to_status_id":null,"truncated":false,"favorited":false,"in_reply_to_user_id":"113682356","retweet_count":0,"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id_str":null,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier @DavidMaitland Already have a spec to install python2.7 into /opt for internal servers that require newer python features
