@@ -1,0 +1,7 @@
+ID: 153878893336592384
+User ID: 24356039
+Time: 1325522561
+Source: TweetDeck
+Other: {"in_reply_to_user_id_str":"113682356","id_str":"153878893336592384","in_reply_to_status_id":"153878560371785728","truncated":false,"favorited":false,"in_reply_to_user_id":"113682356","retweet_count":0,"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id_str":"153878560371785728","retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier rubygems-update requires Ruby version >= 1.8.7 so nope, might just go look at fab over cap.
