@@ -1,0 +1,7 @@
+ID: 170319839745941504
+User ID: 24356039
+Time: 1329442388
+Source: TweetDeck
+Other: {"retweet_count":0,"favorited":false,"id_str":"170319839745941504","retweeted":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"truncated":false,"in_reply_to_user_id_str":"60434974","in_reply_to_screen_name":"ekkis","in_reply_to_user_id":"60434974","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@ekkis Your online cpan2rpm script is borked - chmod() [function.chmod]: No such file or directory in /home/rpm/mk.su-php on line 43
