@@ -1,0 +1,7 @@
+ID: 171998925883056129
+User ID: 24356039
+Time: 1329842714
+Source: TweetDeck
+Other: {"id_str":"171998925883056129","in_reply_to_status_id_str":null,"possibly_sensitive":false,"in_reply_to_user_id_str":null,"favorited":false,"in_reply_to_screen_name":null,"in_reply_to_user_id":null,"retweeted":false,"in_reply_to_status_id":null,"truncated":false,"retweet_count":0,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Anyone know any decent yum repos for openstack? Found http://t.co/VHWjLV3j so far. Afternoon spent updating works mirror ftw :)
