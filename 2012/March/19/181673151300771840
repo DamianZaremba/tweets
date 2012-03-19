@@ -1,0 +1,7 @@
+ID: 181673151300771840
+User ID: 24356039
+Time: 1332149229
+Source: TweetDeck
+Other: {"in_reply_to_user_id":null,"in_reply_to_status_id_str":null,"retweet_count":0,"id_str":"181673151300771840","in_reply_to_user_id_str":null,"favorited":false,"in_reply_to_status_id":null,"in_reply_to_screen_name":null,"truncated":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+2 segfaults and an encoding fail, getting anaconda to talk serial seriously can't be this hard!
