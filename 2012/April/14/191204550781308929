@@ -1,0 +1,7 @@
+ID: 191204550781308929
+User ID: 24356039
+Time: 1334421691
+Source: TweetDeck
+Other: {"id_str":"191204550781308929","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"77741295","in_reply_to_user_id_str":"77741295","in_reply_to_screen_name":"gyron","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@gyron Your portal's certificate is signed using a weak signature algorithm and thus throwing a bit security warning. Please fix :)
