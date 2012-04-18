@@ -1,0 +1,7 @@
+ID: 192463142704517120
+User ID: 24356039
+Time: 1334721763
+Source: TweetDeck
+Other: {"id_str":"192463142704517120","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+'API' returning a 200 ok but actually doing a die() with a crappy error? @whmcs is full of win, every single task is made 50x harder.
