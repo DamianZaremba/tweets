@@ -1,0 +1,7 @@
+ID: 202362251888427008
+User ID: 24356039
+Time: 1337081895
+Source: TweetDeck
+Other: {"id_str":"202362251888427008","truncated":false,"in_reply_to_status_id":"202361669022785537","in_reply_to_status_id_str":"202361669022785537","in_reply_to_user_id":"8627682","in_reply_to_user_id_str":"8627682","in_reply_to_screen_name":"lozzd","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@lozzd The interesting thing is you can't do that with `more`, only `less`.
