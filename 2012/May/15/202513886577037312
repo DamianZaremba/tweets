@@ -1,0 +1,7 @@
+ID: 202513886577037312
+User ID: 24356039
+Time: 1337118047
+Source: TweetDeck
+Other: {"id_str":"202513886577037312","truncated":false,"in_reply_to_status_id":"202513175604768769","in_reply_to_status_id_str":"202513175604768769","in_reply_to_user_id":"21652408","in_reply_to_user_id_str":"21652408","in_reply_to_screen_name":"Kayako","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Kayako API only has default and phone, SWIFT-1903 is an open bug - surely this is core functionality for a helpdesk!?

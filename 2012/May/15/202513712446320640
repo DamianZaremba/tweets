@@ -1,0 +1,7 @@
+ID: 202513712446320640
+User ID: 24356039
+Time: 1337118006
+Source: TweetDeck
+Other: {"id_str":"202513712446320640","truncated":false,"in_reply_to_status_id":"202513175604768769","in_reply_to_status_id_str":"202513175604768769","in_reply_to_user_id":"21652408","in_reply_to_user_id_str":"21652408","in_reply_to_screen_name":"Kayako","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Kayako Need to create a ticket via the api with 'Send as Mail' type - bug tracker says that feature doesn't exist, makes api worthless.
