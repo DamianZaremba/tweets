@@ -1,0 +1,7 @@
+ID: 202462598602559490
+User ID: 24356039
+Time: 1337105819
+Source: TweetDeck
+Other: {"id_str":"202462598602559490","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1337105803,"tweetid":"202462529702735874","text":"Main difference of dev and ops is ops are debug exclusive by use print to stdout.","source":"web","userid":"167499429","screenname":"DEVOPS_BORAT","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id_str":"202462529702735874","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":5,"favorited":false,"retweeted":false}},"retweet_count":5,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @DEVOPS_BORAT: Main difference of dev and ops is ops are debug exclusive by use print to stdout.
