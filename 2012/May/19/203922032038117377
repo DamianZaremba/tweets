@@ -1,0 +1,7 @@
+ID: 203922032038117377
+User ID: 24356039
+Time: 1337453775
+Source: TweetDeck
+Other: {"id_str":"203922032038117377","truncated":false,"in_reply_to_status_id":"203921659235803137","in_reply_to_status_id_str":"203921659235803137","in_reply_to_user_id":"2316871","in_reply_to_user_id_str":"2316871","in_reply_to_screen_name":"BarryCarlyon","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@BarryCarlyon git svn clone -s svn:// dir; cd dir; git remote add origin ..; git push origin master, ???, profit
