@@ -1,0 +1,7 @@
+ID: 204456337114021888
+User ID: 24356039
+Time: 1337581164
+Source: TweetDeck
+Other: {"id_str":"204456337114021888","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Cacti sucks for automation, mrtg for anything other than 2 points, cricket for config format, zabbix for monitoring, Munin for custom graphs

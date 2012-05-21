@@ -1,0 +1,7 @@
+ID: 204455907525001217
+User ID: 24356039
+Time: 1337581061
+Source: TweetDeck
+Other: {"id_str":"204455907525001217","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Anyone know an awesome graphing system? Preferably rrdtool based, capable of handling trends, thresholds etc? >  < close to writing one.
