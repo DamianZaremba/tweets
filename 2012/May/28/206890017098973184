@@ -1,0 +1,7 @@
+ID: 206890017098973184
+User ID: 24356039
+Time: 1338161398
+Source: TweetDeck
+Other: {"id_str":"206890017098973184","truncated":false,"in_reply_to_status_id":"206889838551646208","in_reply_to_status_id_str":"206889838551646208","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Python 2.x has issues with locking, 3.x is suppose to fix that. Trying to stick to Jython for Uis only atm.
