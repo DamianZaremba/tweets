@@ -1,0 +1,7 @@
+ID: 206878164318826496
+User ID: 24356039
+Time: 1338158572
+Source: TweetDeck
+Other: {"id_str":"206878164318826496","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Mental note - if you're writing out to a socket for a line based protocol don't chunk the data when dealing with more than 1 thread.
