@@ -1,0 +1,7 @@
+ID: 207043360068861952
+User ID: 24356039
+Time: 1338197958
+Source: TweetDeck
+Other: {"id_str":"207043360068861952","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1338197607,"tweetid":"207041887096410112","text":"while( this.isHot() ) { this.safeRemoveRandomClothingPiece(); } \/\/ eventually throws a SafeClothingNotFoundException if temperature too high","source":"<a href=\"http:\/\/ping.fm\/\" rel=\"nofollow\">Ping.fm<\/a>","userid":"10121552","screenname":"hidgw","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id_str":"207041887096410112","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":2,"favorited":false,"retweeted":false}},"retweet_count":2,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @hidgw: while( this.isHot() ) { this.safeRemoveRandomClothingPiece(); } // eventually throws a SafeClothingNotFoundException if tempe ...
