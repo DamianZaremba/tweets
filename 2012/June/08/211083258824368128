@@ -1,0 +1,7 @@
+ID: 211083258824368128
+User ID: 24356039
+Time: 1339161145
+Source: TweetDeck
+Other: {"id_str":"211083258824368128","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+So the PCI scan suggests that I disable the IPS/exclude them from it.... isn't that the point of an IPS, to block their attacks *sigh*
