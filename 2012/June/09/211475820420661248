@@ -1,0 +1,7 @@
+ID: 211475820420661248
+User ID: 24356039
+Time: 1339254739
+Source: TweetDeck
+Other: {"id_str":"211475820420661248","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+It surely can't be *that* hard to get the mac address table off a weird hp switch via snmp, though considering it doesn't even support ssh..
