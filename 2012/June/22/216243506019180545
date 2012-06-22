@@ -1,0 +1,7 @@
+ID: 216243506019180545
+User ID: 24356039
+Time: 1340391444
+Source: TweetDeck
+Other: {"id_str":"216243506019180545","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1340391422,"tweetid":"216243414121971713","text":"You know you work at a hosting provider when you have to delete something from line 18,992 in ~\/.ssh\/known_hosts. #devops","source":"<a href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\">YoruFukurou<\/a>","userid":"14453057","screenname":"rackerhacker","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id_str":"216243414121971713","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":4,"favorited":false,"retweeted":false}},"retweet_count":4,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @rackerhacker: You know you work at a hosting provider when you have to delete something from line 18,992 in ~/.ssh/known_hosts. #devops
