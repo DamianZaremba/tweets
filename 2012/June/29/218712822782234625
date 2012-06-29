@@ -1,0 +1,7 @@
+ID: 218712822782234625
+User ID: 24356039
+Time: 1340980175
+Source: TweetDeck
+Other: {"id_str":"218712822782234625","truncated":false,"in_reply_to_status_id":"218712274670600192","in_reply_to_status_id_str":"218712274670600192","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier I prefer to stick all my versions in a file and have them consistent in dev/staging/prod. requirements.txt ftw
