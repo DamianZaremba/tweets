@@ -1,0 +1,7 @@
+ID: 218773193987596288
+User ID: 24356039
+Time: 1340994568
+Source: TweetDeck
+Other: {"id_str":"218773193987596288","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"possibly_sensitive":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+First ever PyPi upload done, little @getsentry to @trello plugin. Needs a load of work but it's a (working) start -> https://t.co/Eeh44m7H
