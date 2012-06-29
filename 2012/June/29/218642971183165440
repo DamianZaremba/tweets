@@ -1,0 +1,7 @@
+ID: 218642971183165440
+User ID: 24356039
+Time: 1340963521
+Source: TweetDeck
+Other: {"id_str":"218642971183165440","truncated":false,"in_reply_to_status_id":"218517724689731584","in_reply_to_status_id_str":"218517724689731584","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier still on 15, apparently if you have RPMs not in a repo it goes into a loop of hitting 404s on their mirrors :(
