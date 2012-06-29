@@ -1,0 +1,7 @@
+ID: 218652367237816322
+User ID: 24356039
+Time: 1340965761
+Source: TweetDeck
+Other: {"id_str":"218652367237816322","truncated":false,"in_reply_to_status_id":"218651844245852160","in_reply_to_status_id_str":"218651844245852160","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier On my dev boxes I generally compile 2.6/2.7/3.0/3.2 then create a virtual env, once switched into it it acts like system py

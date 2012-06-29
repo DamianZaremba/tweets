@@ -1,0 +1,7 @@
+ID: 218651221349769217
+User ID: 24356039
+Time: 1340965488
+Source: TweetDeck
+Other: {"id_str":"218651221349769217","truncated":false,"in_reply_to_status_id":"218648007674040320","in_reply_to_status_id_str":"218648007674040320","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier I use virtualenv+pip to keep packages separate from the os. Though sometimes for development it's not worth switching envs
