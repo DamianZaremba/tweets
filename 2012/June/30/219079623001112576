@@ -1,0 +1,7 @@
+ID: 219079623001112576
+User ID: 24356039
+Time: 1341067627
+Source: TweetDeck
+Other: {"id_str":"219079623001112576","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"369627599","in_reply_to_user_id_str":"369627599","in_reply_to_screen_name":"iagdotme","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@iagdotme @getsentry @trello Manually grabbing the id from @trello's api using a temp token kinda sucks and prevents ease of use.
