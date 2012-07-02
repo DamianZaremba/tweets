@@ -1,0 +1,7 @@
+ID: 219749454687903744
+User ID: 24356039
+Time: 1341227327
+Source: TweetDeck
+Other: {"id_str":"219749454687903744","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1341221588,"tweetid":"219725382721605633","text":"\"PHP is case insensitive for classes and function names -- but not variables.\" Man this fractal of bad design keeps on giving","source":"web","userid":"5637652","screenname":"codinghorror","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id_str":"219725382721605633","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":119,"favorited":false,"retweeted":false}},"retweet_count":119,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @codinghorror: "PHP is case insensitive for classes and function names -- but not variables." Man this fractal of bad design keeps on ...
