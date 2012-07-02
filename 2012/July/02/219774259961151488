@@ -1,0 +1,7 @@
+ID: 219774259961151488
+User ID: 24356039
+Time: 1341233241
+Source: web
+Other: {"id_str":"219774259961151488","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1341219903,"tweetid":"219718314958667776","text":"PHP Bug #18556 : Setting locale to 'tr_TR' lowercases class names http:\/\/t.co\/QKZ2Rfw8","source":"<a href=\"http:\/\/www.lomalogue.com\" rel=\"nofollow\">newsycombinator<\/a>","userid":"14335498","screenname":"newsycombinator","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id_str":"219718314958667776","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":73,"favorited":false,"retweeted":false,"possibly_sensitive":false}},"retweet_count":73,"favorited":false,"retweeted":false,"possibly_sensitive":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @newsycombinator: PHP Bug #18556 : Setting locale to 'tr_TR' lowercases class names http://t.co/QKZ2Rfw8
