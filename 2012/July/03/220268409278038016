@@ -1,0 +1,7 @@
+ID: 220268409278038016
+User ID: 24356039
+Time: 1341351055
+Source: TweetDeck
+Other: {"id_str":"220268409278038016","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1341350240,"tweetid":"220264990794452992","text":"Hmm, new http:\/\/t.co\/QvUM9k42 is quite nice, but every page load is giving me a FOUC (well, flash of unstyled font), which is quite jarring.","source":"<a href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\">TweetDeck<\/a>","userid":"8749512","screenname":"andrewgodwin","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id_str":"220264990794452992","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":1,"favorited":false,"retweeted":false,"possibly_sensitive":false}},"retweet_count":1,"favorited":false,"retweeted":false,"possibly_sensitive":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @andrewgodwin: Hmm, new http://t.co/QvUM9k42 is quite nice, but every page load is giving me a FOUC (well, flash of unstyled font), w ...
