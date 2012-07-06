@@ -1,0 +1,7 @@
+ID: 221268427287957504
+User ID: 24356039
+Time: 1341589478
+Source: TweetDeck
+Other: {"id_str":"221268427287957504","truncated":false,"in_reply_to_status_id":"221268088446914562","in_reply_to_status_id_str":"221268088446914562","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier I'm really pushing to use postgre with Slony-I atm, it's rather weird compared to MySQL but freaking awesome feature/perf wise
