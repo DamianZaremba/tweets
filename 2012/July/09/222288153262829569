@@ -1,0 +1,7 @@
+ID: 222288153262829569
+User ID: 24356039
+Time: 1341832600
+Source: TweetDeck
+Other: {"id_str":"222288153262829569","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"32499999","in_reply_to_user_id_str":"32499999","in_reply_to_screen_name":"CloudFlare","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@cloudflare Would save having to explain the DNS RFC issues around CNAMEs and co-existing record types to clients :(
