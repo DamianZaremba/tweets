@@ -1,0 +1,7 @@
+ID: 222720562965917696
+User ID: 24356039
+Time: 1341935694
+Source: TweetDeck
+Other: {"id_str":"222720562965917696","truncated":false,"in_reply_to_status_id":"222720269909893123","in_reply_to_status_id_str":"222720269909893123","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier @cPanel Facter is freaking awesome even if using it in erb/puppet dsl is rather ugly sometimes
