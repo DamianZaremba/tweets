@@ -1,0 +1,7 @@
+ID: 222714565979414528
+User ID: 24356039
+Time: 1341934265
+Source: TweetDeck
+Other: {"id_str":"222714565979414528","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+cPanel is dropping PHP 4 support and bringing in PHP 5.4 support, YAY! Might get to stop maintaining my 5.4 stack sooner than expected.
