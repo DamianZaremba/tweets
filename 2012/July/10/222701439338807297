@@ -1,0 +1,7 @@
+ID: 222701439338807297
+User ID: 24356039
+Time: 1341931135
+Source: TweetDeck
+Other: {"id_str":"222701439338807297","truncated":false,"in_reply_to_status_id":"222700425747505153","in_reply_to_status_id_str":"222700425747505153","in_reply_to_user_id":"32499999","in_reply_to_user_id_str":"32499999","in_reply_to_screen_name":"CloudFlare","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@CloudFlare @pingdom Still trying to pinpoint the exact issue, ruling out dns/caching etc is taking a chunk of my limited time :-(
