@@ -1,0 +1,7 @@
+ID: 223491405606158336
+User ID: 24356039
+Time: 1342119478
+Source: TweetDeck
+Other: {"id_str":"223491405606158336","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+I wonder what sort of interesting (real time) stats you could generate taking advantage of @disqus 2012's js 'api'. #sideprojectthoughts
