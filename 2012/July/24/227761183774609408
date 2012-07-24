@@ -1,0 +1,7 @@
+ID: 227761183774609408
+User ID: 24356039
+Time: 1343137472
+Source: TweetDeck
+Other: {"id_str":"227761183774609408","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":1,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+"Unknown notice" for a deprecated function doesn't equal "Deprecated notice" in PHP land. #sigh
