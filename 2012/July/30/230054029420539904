@@ -1,0 +1,7 @@
+ID: 230054029420539904
+User ID: 24356039
+Time: 1343684129
+Source: TweetDeck
+Other: {"id_str":"230054029420539904","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1343683620,"tweetid":"230051893081165825","text":"Django security releases issued, please upgrade ASAP: https:\/\/t.co\/o4jixXLG #django","source":"<a href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\">HootSuite<\/a>","userid":"191225303","screenname":"djangoproject","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id_str":"230051893081165825","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":27,"favorited":false,"retweeted":false,"possibly_sensitive":false}},"retweet_count":27,"favorited":false,"retweeted":false,"possibly_sensitive":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @djangoproject: Django security releases issued, please upgrade ASAP: https://t.co/o4jixXLG #django
