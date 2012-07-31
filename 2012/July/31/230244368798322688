@@ -1,0 +1,7 @@
+ID: 230244368798322688
+User ID: 24356039
+Time: 1343729509
+Source: TweetDeck
+Other: {"id_str":"230244368798322688","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Dear twitter, does jQuery have some form of concurrency limit? 12 AJAX calls, randomly only 3/4 succeed but all get a 200 back. #javascript
