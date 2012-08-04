@@ -1,0 +1,7 @@
+ID: 231803835763544064
+User ID: 24356039
+Time: 1344101315
+Source: TweetDeck
+Other: {"id_str":"231803835763544064","truncated":false,"in_reply_to_status_id":"231803250108678145","in_reply_to_status_id_str":"231803250108678145","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Working on getting rpms auto built and pushed to mirror at the moment, sucks for multiple archs. We apps suck for pre-processin

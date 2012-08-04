@@ -1,0 +1,7 @@
+ID: 231803642678738944
+User ID: 24356039
+Time: 1344101269
+Source: TweetDeck
+Other: {"id_str":"231803642678738944","truncated":false,"in_reply_to_status_id":"231803250108678145","in_reply_to_status_id_str":"231803250108678145","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Yeah, there's a lot of suckness if you don't want to keep a second 'tested for push' branch and have the CI update that.
