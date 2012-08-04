@@ -1,0 +1,7 @@
+ID: 231801509376057344
+User ID: 24356039
+Time: 1344100761
+Source: TweetDeck
+Other: {"id_str":"231801509376057344","truncated":false,"in_reply_to_status_id":"231801161244622849","in_reply_to_status_id_str":"231801161244622849","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Works fine for CD, Jenkins etc sorta sucks for a split of testing pull reqs, testing on push and "hey go test then push this"
