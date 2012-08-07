@@ -1,0 +1,7 @@
+ID: 232902309930213377
+User ID: 24356039
+Time: 1344363212
+Source: TweetDeck
+Other: {"id_str":"232902309930213377","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+"/usr/lib/libpangocairo-1.0.so.0: undefined symbol: cairo_ft_font_options_substitute" well that explains observium hitting an infinite loop

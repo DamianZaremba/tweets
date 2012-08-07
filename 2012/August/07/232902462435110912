@@ -1,0 +1,7 @@
+ID: 232902462435110912
+User ID: 24356039
+Time: 1344363248
+Source: TweetDeck
+Other: {"id_str":"232902462435110912","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+I would have thought the rrdtool packages for @centos would work with the pango packages for @centos, apparently no so much currently.
