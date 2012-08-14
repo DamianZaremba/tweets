@@ -1,0 +1,7 @@
+ID: 235325458437271553
+User ID: 24356039
+Time: 1344940936
+Source: TweetDeck
+Other: {"id_str":"235325458437271553","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1344940405,"tweetid":"235323232197177344","text":"Every time I setup Varnish, I\u2019m reminded how completely awesome it is","source":"<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for iOS<\/a>","userid":"20437428","screenname":"bilco105","geo":null,"coordinates":null,"place":{"id":"90045a310627f75c","url":"http:\/\/api.twitter.com\/1\/geo\/id\/90045a310627f75c.json","place_type":"admin","name":"Manchester","full_name":"Manchester, Angleterre","country_code":"GB","country":"Royaume-Uni","bounding_box":{"type":"Polygon","coordinates":[[[-2.319934,53.340121],[-2.147026,53.340121],[-2.147026,53.544603],[-2.319934,53.544603]]]},"attributes":{}},"contributors":null,"extra":{"id_str":"235323232197177344","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":1,"favorited":false,"retweeted":false}},"retweet_count":1,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @bilco105: Every time I setup Varnish, I’m reminded how completely awesome it is
