@@ -1,0 +1,7 @@
+ID: 235766265132773378
+User ID: 24356039
+Time: 1345046032
+Source: TweetDeck
+Other: {"id_str":"235766265132773378","truncated":false,"in_reply_to_status_id":"235765896453451776","in_reply_to_status_id_str":"235765896453451776","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier I think scripting updates of your hosts files would work out better in the long run, or just run dns locally.
