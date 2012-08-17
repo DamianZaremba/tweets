@@ -1,0 +1,7 @@
+ID: 236520792270200832
+User ID: 24356039
+Time: 1345225925
+Source: TweetDeck
+Other: {"id_str":"236520792270200832","truncated":false,"in_reply_to_status_id":"236509024500203521","in_reply_to_status_id_str":"236509024500203521","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Oooh yeah Gemfiles, forgot about those. Actually trying to make Jekyll nice enough to use, downside is it requires ruby.
