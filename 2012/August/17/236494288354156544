@@ -1,0 +1,7 @@
+ID: 236494288354156544
+User ID: 24356039
+Time: 1345219606
+Source: TweetDeck
+Other: {"id_str":"236494288354156544","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@lukecarrier Is there a way in ruby to do like requirements.txt and pass that to gem without going all out to bundler?
