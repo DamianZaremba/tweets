@@ -1,0 +1,7 @@
+ID: 236505048945930240
+User ID: 24356039
+Time: 1345222172
+Source: TweetDeck
+Other: {"id_str":"236505048945930240","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Bah ruby stacktrace, this awesome little plugin looks like it's going to require some hacking to get it going in my setup :(
