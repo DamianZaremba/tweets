@@ -1,0 +1,7 @@
+ID: 239484135922614272
+User ID: 24356039
+Time: 1345932442
+Source: TweetDeck
+Other: {"id_str":"239484135922614272","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+2 clients connected (0 slaves), 217359856 bytes in use < Apparently I left a scraper throwing stuff into the queue this morning. Poor redis.
