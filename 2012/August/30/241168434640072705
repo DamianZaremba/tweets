@@ -1,0 +1,7 @@
+ID: 241168434640072705
+User ID: 24356039
+Time: 1346334010
+Source: TweetDeck
+Other: {"id_str":"241168434640072705","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"32499999","in_reply_to_user_id_str":"32499999","in_reply_to_screen_name":"CloudFlare","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@cloudflare Any dns issues with pam/ian? Had a few random resolution fails from multiple locations over the past hour or so.
