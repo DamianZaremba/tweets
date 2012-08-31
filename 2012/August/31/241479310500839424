@@ -1,0 +1,7 @@
+ID: 241479310500839424
+User ID: 24356039
+Time: 1346408128
+Source: TweetDeck
+Other: {"id_str":"241479310500839424","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"54588083","in_reply_to_user_id_str":"54588083","in_reply_to_screen_name":"thegeekgroup","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@thegeekgroup Your homepage is broken over https - mixed content gets blocked by chrome and stops the menu/some css from working.
