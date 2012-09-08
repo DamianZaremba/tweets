@@ -1,0 +1,7 @@
+ID: 244567269978566657
+User ID: 24356039
+Time: 1347144355
+Source: web
+Other: {"id_str":"244567269978566657","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"293611600","in_reply_to_user_id_str":"293611600","in_reply_to_screen_name":"Synety","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Synety Oh while you're at it - update your wordpress install, 3.2.1 is rather old, 3.4.2 is stable (bunch of security patches in there).

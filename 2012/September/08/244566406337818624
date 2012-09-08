@@ -1,0 +1,7 @@
+ID: 244566406337818624
+User ID: 24356039
+Time: 1347144149
+Source: web
+Other: {"id_str":"244566406337818624","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"293611600","in_reply_to_user_id_str":"293611600","in_reply_to_screen_name":"Synety","retweet_count":0,"favorited":false,"retweeted":false,"possibly_sensitive":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Synety Might want to clean up the mixed content issues on your site (wordpress uploads, http://t.co/hJnbpdsJ, google analytics etc).
