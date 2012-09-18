@@ -1,0 +1,7 @@
+ID: 248017276211720192
+User ID: 24356039
+Time: 1347966901
+Source: TweetDeck
+Other: {"id_str":"248017276211720192","truncated":false,"in_reply_to_status_id":"246662902692601856","in_reply_to_status_id_str":"246662902692601856","in_reply_to_user_id":"18364453","in_reply_to_user_id_str":"18364453","in_reply_to_screen_name":"enom","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@enom If someone exploits your web app you might as well be using plaintext, having the secret key for thousands of passwords is not good.
