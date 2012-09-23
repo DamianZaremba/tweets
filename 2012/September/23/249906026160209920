@@ -1,0 +1,7 @@
+ID: 249906026160209920
+User ID: 24356039
+Time: 1348417214
+Source: TweetDeck
+Other: {"id_str":"249906026160209920","truncated":false,"in_reply_to_status_id":"249905062762127360","in_reply_to_status_id_str":"249905062762127360","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier @DavidMaitland You'd never really think making ~1000k queries/second would use so much traffic/be so slow and fail so much :(
