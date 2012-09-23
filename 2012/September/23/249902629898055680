@@ -1,0 +1,7 @@
+ID: 249902629898055680
+User ID: 24356039
+Time: 1348416404
+Source: TweetDeck
+Other: {"id_str":"249902629898055680","truncated":false,"in_reply_to_status_id":"249902321641865216","in_reply_to_status_id_str":"249902321641865216","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier @DavidMaitland Wait until rrdtool has a derp on upgrade, Observium drops into an infinite loop and locks up threads. Damn Pango
