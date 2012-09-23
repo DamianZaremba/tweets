@@ -1,0 +1,7 @@
+ID: 249907611816828929
+User ID: 24356039
+Time: 1348417592
+Source: TweetDeck
+Other: {"id_str":"249907611816828929","truncated":false,"in_reply_to_status_id":"249907015470690304","in_reply_to_status_id_str":"249907015470690304","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier @DavidMaitland On a side note for authoritative servers, databases love reads over writes. Just throw ram at them.
