@@ -1,0 +1,7 @@
+ID: 251339314401771523
+User ID: 24356039
+Time: 1348758936
+Source: TweetDeck
+Other: {"id_str":"251339314401771523","truncated":false,"in_reply_to_status_id":"251338888956739587","in_reply_to_status_id_str":"251338888956739587","in_reply_to_user_id":"14635493","in_reply_to_user_id_str":"14635493","in_reply_to_screen_name":"alex_gaynor","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@alex_gaynor Urgh, well unless you can't pass it args just call that then? If args are an issue write a wrapper (maybe in python, not c :))
