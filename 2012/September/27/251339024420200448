@@ -1,0 +1,7 @@
+ID: 251339024420200448
+User ID: 24356039
+Time: 1348758867
+Source: TweetDeck
+Other: {"id_str":"251339024420200448","truncated":false,"in_reply_to_status_id":"251337742200483840","in_reply_to_status_id_str":"251337742200483840","in_reply_to_user_id":"14635493","in_reply_to_user_id_str":"14635493","in_reply_to_screen_name":"alex_gaynor","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@alex_gaynor If it's really fussy just write a tiny thing in C to call exec on python.

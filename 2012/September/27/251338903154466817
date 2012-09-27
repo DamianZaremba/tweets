@@ -1,0 +1,7 @@
+ID: 251338903154466817
+User ID: 24356039
+Time: 1348758838
+Source: TweetDeck
+Other: {"id_str":"251338903154466817","truncated":false,"in_reply_to_status_id":"251337742200483840","in_reply_to_status_id_str":"251337742200483840","in_reply_to_user_id":"14635493","in_reply_to_user_id_str":"14635493","in_reply_to_screen_name":"alex_gaynor","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@alex_gaynor Add a shebang and executable permissions? Or just /usr/bin/python <file.py>? (same as above but might get around ELF checks)
