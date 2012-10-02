@@ -1,0 +1,7 @@
+ID: 253163570152484864
+User ID: 24356039
+Time: 1349193873
+Source: TweetDeck
+Other: {"id_str":"253163570152484864","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"14217022","in_reply_to_user_id_str":"14217022","in_reply_to_screen_name":"DreamHost","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@dreamhost your login form is potentially leaking data. Asking for 2fa if the user/pass is right lets anon know they have a valid user/pass.
