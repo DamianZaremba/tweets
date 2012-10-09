@@ -1,0 +1,7 @@
+ID: 255604361789575168
+User ID: 24356039
+Time: 1349775803
+Source: TweetDeck
+Other: {"id_str":"255604361789575168","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1349775772,"tweetid":"255604231837462528","text":"innodb_file_per_table is on by default on MySQL 5.6! Also: Cheers heard from DBAs constantly setting up &amp; tearing down DBs around the world.","source":"<a href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\">TweetDeck<\/a>","userid":"2297641","screenname":"surfichris","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id_str":"255604231837462528","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":1,"favorited":false,"retweeted":false}},"retweet_count":1,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @surfichris: innodb_file_per_table is on by default on MySQL 5.6! Also: Cheers heard from DBAs constantly setting up & tearing do ...
