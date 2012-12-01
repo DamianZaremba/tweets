@@ -1,0 +1,7 @@
+ID: 93458598432223233
+User ID: 24356039
+Time: 1311117240
+Source: TweetDeck
+Other: {"in_reply_to_user_id":"113682356","in_reply_to_status_id":"93458070511947776","id_str":"93458598432223233","favorited":false,"in_reply_to_status_id_str":"93458070511947776","in_reply_to_screen_name":"LukeCarrier","in_reply_to_user_id_str":"113682356","retweeted":false,"retweet_count":0,"truncated":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier The issue is the syslog-ng spec is crap and requires a version of the lib not in the repos now the new version got pushed.

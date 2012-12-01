@@ -1,0 +1,7 @@
+ID: 249309915171155969
+User ID: 24356039
+Time: 1348275090
+Source: TweetDeck
+Other: {"id_str":"249309915171155969","truncated":false,"in_reply_to_status_id":"249308760596676610","in_reply_to_status_id_str":"249308760596676610","in_reply_to_user_id":"343021630","in_reply_to_user_id_str":"343021630","in_reply_to_screen_name":"DreamHostCare","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@DreamHostCare Oh also your filter validation sucks, try to edit a rule (to move position) and it complains about the filter text

@@ -1,0 +1,7 @@
+ID: 38803599903567872
+User ID: 24356039
+Time: 1298086473
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":"113682356","retweet_count":0,"in_reply_to_user_id":"113682356","truncated":false,"id_str":"38803599903567872","favorited":false,"in_reply_to_screen_name":"LukeCarrier","in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier I've got all the git stuff working properly, including the post hooks and rm. Can most stuff over later if you want.

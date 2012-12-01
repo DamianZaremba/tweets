@@ -1,0 +1,7 @@
+ID: 236971101324996608
+User ID: 24356039
+Time: 1345333287
+Source: TweetDeck
+Other: {"id_str":"236971101324996608","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+The "clean" look I was going for is slightly cluttered, some refactoring needed me thinks. Should be interesting now it's much, much faster.

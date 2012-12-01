@@ -1,0 +1,7 @@
+ID: 39199714008236032
+User ID: 24356039
+Time: 1298180914
+Source: TweetDeck
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":"237281651","retweet_count":0,"in_reply_to_user_id":"237281651","truncated":false,"id_str":"39199714008236032","favorited":false,"in_reply_to_screen_name":"chiliproject","in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@chiliproject An easy way to update cp when migrating svn -> git would be nice. Awking out the log and updating the db is a pain :( #idea

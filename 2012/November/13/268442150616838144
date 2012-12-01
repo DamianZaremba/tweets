@@ -1,0 +1,7 @@
+ID: 268442150616838144
+User ID: 24356039
+Time: 1352836570
+Source: TweetDeck
+Other: {"id":"268442150616838144","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1352834908,"tweetid":"268435178215600129","text":"OH: \"There's a virus for linux, it's called upstart\"","source":"web","userid":"87233735","screenname":"mmgaggle","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id":"268435178215600129","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":12,"entities":{"hashtags":[],"urls":[],"user_mentions":[]},"favorited":false,"retweeted":false}},"retweet_count":12,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"mmgaggle","name":"Kyle Bader","id":"87233735","id_str":"87233735","indices":[3,12]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @mmgaggle: OH: "There's a virus for linux, it's called upstart"

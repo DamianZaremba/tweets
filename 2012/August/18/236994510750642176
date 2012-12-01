@@ -1,0 +1,7 @@
+ID: 236994510750642176
+User ID: 24356039
+Time: 1345338869
+Source: TweetDeck
+Other: {"id_str":"236994510750642176","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Turns out #sed is rather awesome for ucfirst'ing YAML lists (Jekyll tags) `sed -i 's/^\- \(.\)\(.*\)/- \U\1\L\2/g'` #bash #win

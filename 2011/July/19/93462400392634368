@@ -1,0 +1,7 @@
+ID: 93462400392634368
+User ID: 24356039
+Time: 1311118147
+Source: TweetDeck
+Other: {"retweeted":false,"retweet_count":0,"in_reply_to_status_id":"93462173468209152","in_reply_to_user_id":"113682356","id_str":"93462400392634368","favorited":false,"in_reply_to_status_id_str":"93462173468209152","in_reply_to_screen_name":"LukeCarrier","truncated":false,"in_reply_to_user_id_str":"113682356","coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier syslog-ng is awesome for filters and scales pretty well for ~5 low traffic servers.

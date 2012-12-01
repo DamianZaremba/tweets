@@ -1,0 +1,7 @@
+ID: 88803029314306048
+User ID: 24356039
+Time: 1310007266
+Source: TweetDeck
+Other: {"in_reply_to_user_id":null,"retweet_count":0,"id_str":"88803029314306048","favorited":false,"in_reply_to_status_id_str":null,"in_reply_to_screen_name":null,"in_reply_to_user_id_str":null,"truncated":false,"retweeted":false,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Probably the link saturating and knocking out heartbeat as for some reason the check goes back though the access switches. =/ #fail

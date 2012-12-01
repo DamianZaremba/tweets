@@ -1,0 +1,7 @@
+ID: 12021813175
+User ID: 24356039
+Time: 1271036700
+Source: twitux
+Other: {"in_reply_to_status_id_str":null,"retweeted":false,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"12021813175","favorited":false,"in_reply_to_screen_name":null,"in_reply_to_status_id":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Wtf why are these python scripts half tabbed and half spaced.. stupid IDE, now I gotta write some hacky sed to fix them all.

@@ -1,0 +1,7 @@
+ID: 118518186034462721
+User ID: 24356039
+Time: 1317091912
+Source: TweetDeck
+Other: {"retweeted":false,"in_reply_to_status_id_str":null,"in_reply_to_status_id":null,"in_reply_to_user_id_str":null,"retweet_count":0,"in_reply_to_user_id":null,"truncated":false,"id_str":"118518186034462721","favorited":false,"in_reply_to_screen_name":null,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+So the files where on /var/data but accessed via /home/data or /var/data via /home/data... yeah anyway. Damn fstab for being backwards!

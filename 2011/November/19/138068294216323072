@@ -1,0 +1,7 @@
+ID: 138068294216323072
+User ID: 24356039
+Time: 1321753021
+Source: web
+Other: {"favorited":false,"retweet_count":0,"in_reply_to_screen_name":"gyron","id_str":"138068294216323072","retweeted":false,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"77741295","in_reply_to_status_id":null,"in_reply_to_user_id_str":"77741295","truncated":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@gyron Hey, you don't happen to have an API for power usage/pdu status/ip info (rdns delegation/vlan tag) etc?

@@ -1,0 +1,7 @@
+ID: 206887418144620546
+User ID: 24356039
+Time: 1338160778
+Source: TweetDeck
+Other: {"id_str":"206887418144620546","truncated":false,"in_reply_to_status_id":"206887201794031619","in_reply_to_status_id_str":"206887201794031619","in_reply_to_user_id":"113682356","in_reply_to_user_id_str":"113682356","in_reply_to_screen_name":"LukeCarrier","retweet_count":0,"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@LukeCarrier Well this is going to get re-written tomorrow, probably from perl into python. But it works! (even if it does take 40 seconds)

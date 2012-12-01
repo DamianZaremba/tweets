@@ -1,0 +1,7 @@
+ID: 93098076704743424
+User ID: 24356039
+Time: 1311031285
+Source: TweetDeck
+Other: {"in_reply_to_user_id":"15722976","in_reply_to_status_id":"93097875222953984","id_str":"93098076704743424","favorited":false,"in_reply_to_status_id_str":"93097875222953984","in_reply_to_screen_name":"Saiweb","in_reply_to_user_id_str":"15722976","retweeted":false,"retweet_count":0,"truncated":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@Saiweb My current solution is kvm/libvirtd + python/nagios/snmp + tftp/ks but OpenStack looks cool ;)
