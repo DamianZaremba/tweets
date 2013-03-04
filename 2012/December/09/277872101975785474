@@ -1,0 +1,7 @@
+ID: 277872101975785474
+User ID: 24356039
+Time: 1355084846
+Source: TweetDeck
+Other: {"id":"277872101975785474","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Multiplexed TCP sockets are making my head hurt, maybe I should go back to queued and distributed... but then locking gets hard.... bleh

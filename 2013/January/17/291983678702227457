@@ -1,0 +1,7 @@
+ID: 291983678702227457
+User ID: 24356039
+Time: 1358449308
+Source: TweetDeck
+Other: {"id":"291983678702227457","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[],"urls":[{"url":"https:\/\/t.co\/0EnNOhpS","expanded_url":"https:\/\/github.com\/defunkt\/dotjs","display_url":"github.com\/defunkt\/dotjs","indices":[56,77]}],"user_mentions":[{"screen_name":"defunkt","name":"Chris Wanstrath","id":"713263","id_str":"713263","indices":[3,11]}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @defunkt: dotjs now works with ssl. Reinstall today: https://t.co/0EnNOhpS

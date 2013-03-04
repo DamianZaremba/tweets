@@ -1,0 +1,7 @@
+ID: 284743675672674304
+User ID: 24356039
+Time: 1356723157
+Source: TweetDeck
+Other: {"id":"284743675672674304","truncated":false,"in_reply_to_status_id":"284743003506094081","in_reply_to_status_id_str":"284743003506094081","in_reply_to_user_id":"15674759","in_reply_to_user_id_str":"15674759","in_reply_to_screen_name":"pingdom","retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"pingdom","name":"Pingdom","id":"15674759","id_str":"15674759","indices":[0,8]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@pingdom As much as working on large distributed, real time, fault tolerant systems would be, why are jobs always in NY!

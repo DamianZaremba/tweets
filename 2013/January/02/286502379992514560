@@ -1,0 +1,7 @@
+ID: 286502379992514560
+User ID: 24356039
+Time: 1357142465
+Source: TweetDeck
+Other: {"id":"286502379992514560","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Apparently mongodb throws obscure error messages if it can't connect to a server in a replication set you're trying to configure *sigh*

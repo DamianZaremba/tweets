@@ -1,0 +1,7 @@
+ID: 301418624130899968
+User ID: 24356039
+Time: 1360698774
+Source: TweetDeck
+Other: {"id":"301418624130899968","truncated":false,"in_reply_to_status_id":"301418500700901376","in_reply_to_status_id_str":"301418500700901376","in_reply_to_user_id":"15471924","in_reply_to_user_id_str":"15471924","in_reply_to_screen_name":"aetaric","retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"aetaric","name":"Dustin Essington","id":"15471924","id_str":"15471924","indices":[0,8]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@aetaric Not deploying, just need to install terminal services on a few existing boxes ;)

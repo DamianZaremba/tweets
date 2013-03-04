@@ -1,0 +1,7 @@
+ID: 284792391863529473
+User ID: 24356039
+Time: 1356734772
+Source: web
+Other: {"id":"284792391863529473","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[{"text":"ruby","indices":[103,108]}],"urls":[],"user_mentions":[{"screen_name":"puppetlabs","name":"Puppet Labs","id":"88982108","id_str":"88982108","indices":[31,42]},{"screen_name":"getsentry","name":"Sentry","id":"464217126","id_str":"464217126","indices":[60,70]}],"media":[{"id":"284792391871918081","id_str":"284792391871918081","indices":[112,132],"media_url":"http:\/\/pbs.twimg.com\/media\/A_PJK-hCcAE2Xbx.png","media_url_https":"https:\/\/pbs.twimg.com\/media\/A_PJK-hCcAE2Xbx.png","url":"http:\/\/t.co\/vjF29xru","display_url":"pic.twitter.com\/vjF29xru","expanded_url":"http:\/\/twitter.com\/damianzaremba\/status\/284792391863529473\/photo\/1","type":"photo","sizes":{"medium":{"w":600,"h":359,"resize":"fit"},"large":{"w":925,"h":553,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":340,"h":203,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"imgs":{"http:\/\/t.co\/vjF29xru":"http:\/\/p.twimg.com\/media\/A_PJK-hCcAE2Xbx.png:thumb"},"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Made a little progress getting @puppetlabs failed runs into @getsentry :) Only 6 hours for 60 lines of #ruby... http://t.co/vjF29xru

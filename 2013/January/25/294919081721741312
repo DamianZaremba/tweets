@@ -1,0 +1,7 @@
+ID: 294919081721741312
+User ID: 24356039
+Time: 1359149163
+Source: TweetDeck
+Other: {"id":"294919081721741312","truncated":false,"in_reply_to_status_id":"294916934141628417","in_reply_to_status_id_str":"294916934141628417","in_reply_to_user_id":"85445405","in_reply_to_user_id_str":"85445405","in_reply_to_screen_name":"cpanelcares","retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"cpanelcares","name":"cPanel Cares","id":"85445405","id_str":"85445405","indices":[0,12]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@cpanelcares Aside from it being hard to look at, regex in place of service names and lack of ability to integration, it's awesome.

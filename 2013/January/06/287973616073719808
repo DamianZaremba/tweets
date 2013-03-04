@@ -1,0 +1,7 @@
+ID: 287973616073719808
+User ID: 24356039
+Time: 1357493235
+Source: TweetDeck
+Other: {"id":"287973616073719808","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":3,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"logstash","name":"logstash","id":"217155915","id_str":"217155915","indices":[56,65]},{"screen_name":"graylog2","name":"Party Gorilla","id":"182323597","id_str":"182323597","indices":[70,79]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Pretty impressed at how many log entries I can throw at @logstash and @graylog2 on a totally untuned setup without them complaining

@@ -1,0 +1,7 @@
+ID: 276815186990616576
+User ID: 24356039
+Time: 1354832858
+Source: TweetDeck
+Other: {"id":"276815186990616576","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"SaltStackInc","name":"Salt Stack, Inc.","id":"557933634","id_str":"557933634","indices":[31,44]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Wonder how crazy I'd be to use @saltstackinc instead of nrpe for high level monitoring.... could fit into my idea of integration nicely hmm

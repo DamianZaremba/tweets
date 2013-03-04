@@ -1,0 +1,7 @@
+ID: 300347366890950656
+User ID: 24356039
+Time: 1360443367
+Source: TweetDeck
+Other: {"id":"300347366890950656","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"github","name":"GitHub","id":"13334762","id_str":"13334762","indices":[17,24]},{"screen_name":"fastly","name":"Fastly","id":"331912537","id_str":"331912537","indices":[39,46]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Interesting that @github are now using @Fastly for raw downloads, sadly wget barfs at the ssl cert due to the cname

@@ -1,0 +1,7 @@
+ID: 306563500455636992
+User ID: 24356039
+Time: 1361925408
+Source: TweetDeck
+Other: {"id":"306563500455636992","truncated":false,"in_reply_to_status_id":"306420523682897921","in_reply_to_status_id_str":"306420523682897921","in_reply_to_user_id":"850107536","in_reply_to_user_id_str":"850107536","in_reply_to_screen_name":"codeorg","retweet_count":0,"entities":{"hashtags":[{"text":"oops","indices":[27,32]}],"urls":[],"user_mentions":[{"screen_name":"codeorg","name":"Code.Org","id":"850107536","id_str":"850107536","indices":[0,8]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@codeorg Double . on .org! #oops

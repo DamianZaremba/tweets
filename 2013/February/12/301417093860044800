@@ -1,0 +1,7 @@
+ID: 301417093860044800
+User ID: 24356039
+Time: 1360698409
+Source: TweetDeck
+Other: {"id":"301417093860044800","truncated":false,"in_reply_to_status_id":"301416011477962752","in_reply_to_status_id_str":"301416011477962752","in_reply_to_user_id":"14746604","in_reply_to_user_id_str":"14746604","in_reply_to_screen_name":"henrikhodne","retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"henrikhodne","name":"Henrik Hodne","id":"14746604","id_str":"14746604","indices":[0,12]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@henrikhodne Nah, I never patch Rails... it's not installed anyway ;)

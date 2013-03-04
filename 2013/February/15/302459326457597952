@@ -1,0 +1,7 @@
+ID: 302459326457597952
+User ID: 24356039
+Time: 1360946897
+Source: TweetDeck
+Other: {"id":"302459326457597952","truncated":false,"in_reply_to_status_id":"302273146470428673","in_reply_to_status_id_str":"302273146470428673","in_reply_to_user_id":"25802669","in_reply_to_user_id_str":"25802669","in_reply_to_screen_name":"FastLizard4","retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"FastLizard4","name":"Andrew Adams","id":"25802669","id_str":"25802669","indices":[0,12]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@FastLizard4 Yes! Nrpe based needs merging into prod but the template are editable, just send me a pr. Ill send the gerrit link later ;)

@@ -1,0 +1,7 @@
+ID: 302950164040134656
+User ID: 24356039
+Time: 1361063922
+Source: TweetDeck
+Other: {"id":"302950164040134656","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":"245369690","in_reply_to_user_id_str":"245369690","in_reply_to_screen_name":"gaugesapp","retweet_count":0,"entities":{"hashtags":[],"urls":[{"url":"http:\/\/t.co\/5t8YWXk3","expanded_url":"http:\/\/gaug.es\/get.gaug.es","display_url":"gaug.es\/get.gaug.es","indices":[11,31]}],"user_mentions":[{"screen_name":"gaugesapp","name":"Gaug.es","id":"245369690","id_str":"245369690","indices":[0,10]}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@gaugesapp http://t.co/5t8YWXk3 seems down due to dns fail :(

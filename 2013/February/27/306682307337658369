@@ -1,0 +1,7 @@
+ID: 306682307337658369
+User ID: 24356039
+Time: 1361953734
+Source: TweetDeck
+Other: {"id":"306682307337658369","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+So Django 1.5 got released.... I know this because Jenkins is yelling at me this morning about tests failing since it's not glued to 1.4..

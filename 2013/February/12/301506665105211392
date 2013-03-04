@@ -1,0 +1,7 @@
+ID: 301506665105211392
+User ID: 24356039
+Time: 1360719765
+Source: TweetDeck
+Other: {"id":"301506665105211392","truncated":false,"in_reply_to_status_id":"301490982883577857","in_reply_to_status_id_str":"301490982883577857","in_reply_to_user_id":"9887162","in_reply_to_user_id_str":"9887162","in_reply_to_screen_name":"markimbriaco","retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"markimbriaco","name":"Mark Imbriaco","id":"9887162","id_str":"9887162","indices":[0,13]},{"screen_name":"BarryCarlyon","name":"Barry Carlyon","id":"2316871","id_str":"2316871","indices":[14,27]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+@markimbriaco @BarryCarlyon <3 working perfectly now, ssl cert is the wildcard github one so wget is all pacified and in happy land. Thanks!

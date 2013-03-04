@@ -1,0 +1,7 @@
+ID: 276041696070991872
+User ID: 24356039
+Time: 1354648443
+Source: TweetDeck
+Other: {"id":"276041696070991872","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+22GB of logs? Screw you IIS and your lack of logical rotation.

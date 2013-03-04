@@ -1,0 +1,7 @@
+ID: 278955359580848128
+User ID: 24356039
+Time: 1355343115
+Source: TweetDeck
+Other: {"id":"278955359580848128","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"rt":{"time":1355343093,"tweetid":"278955269365567489","text":"When comparing strings, mysql ignores trailing spaces. What. The. Fuck. MySQL and PHP are a match made in heaven.","source":"<a href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac<\/a>","userid":"14635493","screenname":"alex_gaynor","geo":null,"coordinates":null,"place":null,"contributors":null,"extra":{"id":"278955269365567489","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":29,"entities":{"hashtags":[],"urls":[],"user_mentions":[]},"favorited":false,"retweeted":false}},"retweet_count":29,"entities":{"hashtags":[],"urls":[],"user_mentions":[{"screen_name":"alex_gaynor","name":"Alex Gaynor","id":"14635493","id_str":"14635493","indices":[3,15]}]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+RT @alex_gaynor: When comparing strings, mysql ignores trailing spaces. What. The. Fuck. MySQL and PHP are a match made in heaven.

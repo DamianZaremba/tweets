@@ -1,0 +1,7 @@
+ID: 293459891316723712
+User ID: 24356039
+Time: 1358801264
+Source: TweetDeck
+Other: {"id":"293459891316723712","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"retweet_count":0,"entities":{"hashtags":[],"urls":[],"user_mentions":[]},"favorited":false,"retweeted":false,"coordinates":null,"geo":null,"place":null}
+-------------------------------------------------------
+Powershell must be one of the worlds slowest languages ever, ~80 seconds to grab 51 counters and push them into an ArrayList....
